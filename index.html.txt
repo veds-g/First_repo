@@ -3,8 +3,8 @@
 		<title>Index</title>
 	</head>
 	<body>
-		This is the first page. Welcome!
+		this is a pull req from mausi.
 	</body>
 
 </html>
-Just the beginning of getting the rewards in hacktober fest 2020.
+
